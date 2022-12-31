@@ -1,0 +1,4 @@
+pika
+msgpack
+boto3
+
